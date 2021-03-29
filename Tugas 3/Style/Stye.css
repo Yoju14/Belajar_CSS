@@ -1,0 +1,25 @@
+#Judul{
+    font-size: 25px;
+}
+
+.p_pertama{
+    border-style:solid none groove inset;
+    background-color: orange;
+}
+
+.p_kedua{
+    color: white;
+    border-style: groove;
+    background-color: blue;
+}
+
+.p_ketiga{
+    border-style:solid;
+   font-family: monospace;
+   font-size: 25px;
+}
+
+.p_keempat{
+    border: solid;
+    background-color: dimgrey;
+}
