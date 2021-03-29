@@ -1,0 +1,16 @@
+body{
+    background-image: url(../7179.jpg_wh860.jpg);
+    background-size: cover;
+}
+
+.border{
+    float: left;
+    width: 900px;
+    height: 650px;
+    background-color: white;
+    text-align: right;
+    margin-right: ;
+    margin-top: 3px ;
+    margin-left: 52%;
+    margin-bottom: 20%;
+}
