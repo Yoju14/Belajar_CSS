@@ -1,0 +1,18 @@
+.container{
+    margin: 10px;
+    background-image:linear-gradient(to bottom left, white, red);
+}
+
+.satu{
+    width: 900px;
+    height: 700px;
+    background-image:radial-gradient(circle at bottom, white, blue);
+    margin: 0 auto;
+}
+
+.dua{
+    width: 900px;
+    height: 200px;
+    background-image: radial-gradient(circle at top right, white, blue, white);
+    margin: 0 auto;
+}
