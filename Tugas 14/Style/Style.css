@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+}
+
+.container{
+    background: white;
+    display: flex;
+}
+
+.box{
+    padding: 30px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 1.5em;
+    text-shadow: 0 1px 1px rgba( 0, 0, 0, 0.2);
+    text-align: center;
+    width: 200px;
+}
+
+.box1{
+    background-color: aquamarine;
+}
+
+.box2{
+    background-color:mediumseagreen);
+}
+
+.box3{
+    background-color:mediumblue;
+}
+
+.box4{
+    background-color:mediumorchid;
+}
+
+.box5{
+    background-color:black;
+}
+
+.box6{
+    background-color:yellow;
+}
+
+.box7{
+    background-color:orange;
+}
+
+.box8{
+    background-color:orangered;
+}
+
+.box9{
+    background-color:gray;
+}
+
+.box10{
+    background-color:grey;
+}
+
+.container2{
+    background: white;
+    display: flexbox;
+}
+
+.box{
+    padding: 30px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 1.5em;
+    text-shadow: 0 1px 1px rgba( 0, 0, 0, 0.2);
+    text-align: center;
+    width: 200px;
+}
+
+.box1{
+    background-color: aquamarine;
+}
+
+.box2{
+    background-color:rgb(36, 163, 93);
+}
+
+.box3{
+    background-color:mediumblue;
+}
+
+.box4{
+    background-color:mediumorchid;
+}
+
+.box5{
+    background-color:black;
+}
+
+.box6{
+    background-color:yellow;
+}
+
+.box7{
+    background-color:orange;
+}
+
+.box8{
+    background-color:orangered;
+}
+
+.box9{
+    background-color:gray;
+}
+
+.box10{
+    background-color:grey;
+}
+
+.container3{
+    background: white;
+    display: flex;
+}
+
+.box{
+    padding: 30px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 1.5em;
+    text-shadow: 0 1px 1px rgba( 0, 0, 0, 0.2);
+    text-align: center;
+    width: 200px;
+}
+
+.box1{
+    background-color: aquamarine;
+}
+
+.box2{
+    background-color:rgb(36, 163, 93);
+}
+
+.box3{
+    background-color:mediumblue;
+}
+
+.box4{
+    background-color:mediumorchid;
+}
+
+.box5{
+    background-color:black;
+}
+
+.box6{
+    background-color:yellow;
+}
+
+.box7{
+    background-color:orange;
+}
+
+.box8{
+    background-color:orangered;
+}
+
+.box9{
+    background-color:gray;
+}
+
+.box10{
+    background-color:grey;
+}
