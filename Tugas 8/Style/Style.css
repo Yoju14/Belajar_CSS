@@ -1,0 +1,26 @@
+body{
+    background-image: url(../Makassar\,_old_harbour_\(6965255799\).jpg);
+    background-size: cover;
+}
+
+.satu{
+    width: 700px;
+    height: 300px;
+    border-style: solid ;
+    border-color: black;
+    background-image: url(../avocado.jpg);
+    background-repeat: repeat-y;
+    overflow: scroll;
+    color: blue;
+    text-align: right;
+}
+
+.dua{
+    text-align: left;
+    color: green;
+}
+
+.tiga{
+    text-align: center;
+    color: red;
+}
