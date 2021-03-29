@@ -1,0 +1,33 @@
+.div_menu{
+    background-color:rgb(63, 61, 61);
+}
+
+.menu{
+    color: white;
+    margin-right: 20px;
+}
+
+.colom1{
+    height: 400px;
+    column-width: 300px;
+    column-fill: balance;
+    column-span: all;
+    column-count: 4;
+    column-rule: 5px solid black;
+}
+
+.colom2{
+    height: 400px;
+    column-width: 300px;
+    column-fill: balance;
+    column-span: all;
+    column-count: 5;
+    column-rule: 5px solid black;
+}
+
+.footer{
+    height: 40px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
